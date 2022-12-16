@@ -1,0 +1,7 @@
+Xft.antialias:	true
+Xft.rgba:	rgb
+Xft.dpi:	110	
+
+UXTerm*faceName:	Source Code Pro
+UXTerm*faceSize:	12
+UXTerm*renderFont:	true

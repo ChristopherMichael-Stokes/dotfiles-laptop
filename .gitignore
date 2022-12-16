@@ -1,0 +1,29 @@
+# Ignore everything by default except gitignore
+*
+!.gitignore
+
+# Dotfiles
+
+# Xorg
+!.xinitrc
+!.Xresources
+
+# Git
+!.gitconfig
+
+# Shell
+!.vimrc
+!.zshrc
+!.zprofile
+!.bashrc
+!.bash_profile
+
+# Misc config
+!.npmrc
+!/.config/
+!.config/awesome/
+!.config/pcmanfm
+!.config/termite
+
+# Shell scripts
+!refresh-mirrors.sh
